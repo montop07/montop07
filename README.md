@@ -1,6 +1,6 @@
 ## Hi there, I am Manas 👋
 
-I am a Final year Student at Thapar Institute of Engineering and Technology, Patiala pursuing a B.E. in Computer Science.
+I am a Final year Student at Thapar Institute of Engineering and Technology, Patiala pursuing a B.E. in Computer Engineering.
 
 💻 Currently working on Data Structures and Algorithms.
 
