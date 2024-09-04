@@ -3,7 +3,9 @@
 I am a Final year Student at Thapar Institute of Engineering and Technology, Patiala pursuing a B.E. in Computer Science.
 
 💻 Currently working on Data Structures and Algorithms.
+
 📝 Currently learning: NodeJS, ExpressJS, MongoDB
+
 👩‍💻 Increasing my expertise in Web Development
 
 <!--
