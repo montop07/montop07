@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I am Manas 👋
+
+I am a Final year Student at Thapar Institute of Engineering and Technology, Patiala pursuing a B.E. in Computer Science.
+
+💻 Currently working on Data Structures and Algorithms.
+📝 Currently learning: NodeJS, ExpressJS, MongoDB
+👩‍💻 Increasing my expertise in Web Development
 
 <!--
 **montop07/montop07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
